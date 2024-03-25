@@ -34,7 +34,7 @@ HTML program
     <body>
         <center>
             <img src="logo.png" alt="Saveetha">
-            <h1 style="font-family: cursive; font-size: 15px;">Naveenkanthan (212223230138)</h1>
+            <caption style="font-family: cursive; font-size: 15px;">Naveenkanthan (212223230138)</caption>
             <table>
                 <tr>
                     <th class="head">Day&time</th>
