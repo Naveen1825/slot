@@ -34,7 +34,7 @@ HTML program
     <body>
         <center>
             <img src="logo.png" alt="Saveetha">
-            <caption style="font-family: cursive; font-size: 15px;">Naveenkanthan (212223230138)</caption>
+            <caption style="font-family: cursive;font-size: 20px;">Naveenkanthan (212223230138)</caption>
             <table>
                 <tr>
                     <th class="head">Day&time</th>
@@ -85,7 +85,7 @@ HTML program
                     <td class="data">FREE</td>
                 </tr>
             </table>
-            <table>
+            <table style="background-color: rgb(251, 117, 137); border-collapse: collapse;">
                 <tr>
                     <th>S.No</th>
                     <th>Subject Code</th>
@@ -95,7 +95,7 @@ HTML program
                     <tr>
                         <td>1.</td>
                         <td>19AI305</td>
-                        <td>Advanced C Programming(Adv C)</td>
+                        <td style="border-color:black;color: white;">Advanced C Programming(Adv C)</td>
                     </tr>
                     <tr>
                         <td>2.</td>
@@ -160,6 +160,6 @@ table,img{
 }
 ```
 ## OUTPUT
-![alt text](image.png)
+![image](https://github.com/Naveen1825/slot/assets/138969868/0c7e027c-2093-4b2f-b119-e3db6390690c)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
